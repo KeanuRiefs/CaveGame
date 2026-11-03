@@ -11,5 +11,12 @@
 				"Editor"
 			]
 		}
+	],
+	"Modules": [
+		{
+			"Name": "CaveGameIntern",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
 	]
 }
